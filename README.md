@@ -15,6 +15,6 @@ Greetings! I am Stanimir, an enthusiastic and driven game developer. My passion 
     <img alt="steam" title="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
   <a href="#" title="Discord: stan40#1736">
-    <img alt="discord" title="Discord: stan40#1736" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img alt="stan40#1736" title="Discord: stan40#1736" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
