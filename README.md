@@ -32,12 +32,13 @@ Greetings! I am Stanimir, an enthusiastic and driven game developer. My passion 
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="Blender" width="40px" style="padding-right:10px;" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
 <img align="left" alt="MySql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<br />
 
 #
 
 ### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stamba1337&show_icons=true&locale=en" alt="stamba1337" /></p>
+![Stamba1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stamba1337&show_icons=true&theme=gruvbox)
 
 #
 
