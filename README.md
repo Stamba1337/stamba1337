@@ -1,16 +1,18 @@
-### Hi there 👋
+#👨🏻‍💻🎮 Stanimir Lambov
 
-<!--
-**Stamba1337/stamba1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Junior Game Developer`**
 
-Here are some ideas to get you started:
+Greetings! I am Stanimir, an enthusiastic and driven game developer. My passion for storytelling is channeled through game development as a means of expressing my creativity. I have accumulated four years of industry experience, mastering Unity and C# to design immersive experiences. I have made notable contributions to the field by winning a local game jam, and I thrive in collaborative environments where game concepts are brought to life. Additionally, my aptitude for project management enables me to work autonomously. My primary objective is to deliver an unparalleled user experience and convey my passion for storytelling through my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <p align="left">
+      <a href="https://www.linkedin.com/in/stanimir-lambov-39a23b19a/">
+         <img alt="linkedin profile" title="Check Out My LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+      <a href="https://www.instagram.com/stanimir_lambov/">
+         <img alt="Instagram profile" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+      <a href="https://steamcommunity.com/id/stan40/">
+         <img alt="steam" title="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+      <a href="https://github.com/Stamba1337?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/stamba1337?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
