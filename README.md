@@ -19,3 +19,8 @@ Greetings! I am Stanimir, an enthusiastic and driven game developer. My passion 
   </a>
 </p>
 
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@8.6.0/icons/csharp.svg"/>
