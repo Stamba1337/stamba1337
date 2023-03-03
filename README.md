@@ -24,6 +24,6 @@ Greetings! I am Stanimir, an enthusiastic and driven game developer. My passion 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="UNITY" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
+<img align="left" alt="UNITY" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/unity/unity-original.svg"/>
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
