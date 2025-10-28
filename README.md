@@ -11,9 +11,6 @@ Greetings! I am Stanimir, an enthusiastic and driven game developer. My passion 
   <a href="https://www.instagram.com/stanimir_lambov/">
     <img alt="Instagram profile" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
-  <a href="https://steamcommunity.com/id/stan40/">
-    <img alt="steam" title="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
 </p>
 
 ---
